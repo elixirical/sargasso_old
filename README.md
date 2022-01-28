@@ -8,4 +8,4 @@ Sargasso is built using [Vue](https://vuejs.org/), [Boardgame.io](https://boardg
 
 ## Disclaimer
 
-I have no affiliation whatsoever with Shipwreck Arcana or Meromorph games, who are the legal owners of this property. I simply enjoy the game. If you enjoy the game, please buy a [physical copy](https://www.meromorphgames.com/shop/shipwreck-arcana) to support the original publishers. I will gladly take down this github repository if asked to by Meromorph Games!
+I have no affiliation whatsoever with Shipwreck Arcana or Meromorph games, who are the legal owners of this property. I simply enjoy the game. If you enjoy the game as well, please buy a [physical copy](https://www.meromorphgames.com/shop/shipwreck-arcana) to support the original publishers. I will gladly take down this github repository if asked to by Meromorph Games!
